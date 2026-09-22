@@ -1,0 +1,4 @@
+print("Take")
+
+Tuples1=("Take",1,3,5)
+print(Tuples1=[1]=("Take")
